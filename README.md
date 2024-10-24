@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Riam Martinelli
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
