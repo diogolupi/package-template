@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-Riam Martinelli
+Diogo Rodrigues
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
